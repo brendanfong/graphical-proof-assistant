@@ -6,7 +6,7 @@ The diagram language we have chosen is [Graphical Regular Logic](https://arxiv.o
 
 The backend will implement the categorical ideas of [Graphical Regular Logic](https://arxiv.org/abs/1812.05765) and [Hypergraph Categories](https://arxiv.org/abs/1806.08304), based primarily on cospans and lax monoidal functors to Set. This rigorous foundation will ensure the data structures used for the language are fit to act as a foundation for future development.
 
-The frontend will run in-browser, allowing use of the tool without installation of a local copy. Terms in the language may be built by simply dragging and dropping icons, and clicking to connect wires, just as one can might build a circuit diagram. This easy interface will ensure that users can take advantage of the formal language without themselves needing to study category theory and mathematical logic.
+The frontend will run in-browser, allowing use of the tool without installation of a local copy. Terms in the language may be built by simply dragging and dropping icons, and clicking to connect wires, just as one might build a circuit diagram. This easy interface will ensure that users can take advantage of the formal language without themselves needing to study category theory and mathematical logic.
 
 As a first application, the graphical language will compile to SQL, allowing the tool to be used to make graphical database queries.
 

@@ -16,4 +16,4 @@ We will also create an easy-to-use, yet sound and complete set of graphical dedu
 
 ## Specification
 
-A link to an evolving specification document is [here[(https://docs.google.com/document/d/1380RFV-DmQ4hXrc0k3HxqrMjqDoE2XXeK82e5FFI04I/edit?usp=sharing).
+A link to an evolving specification document is [here](https://docs.google.com/document/d/1380RFV-DmQ4hXrc0k3HxqrMjqDoE2XXeK82e5FFI04I/edit?usp=sharing).
